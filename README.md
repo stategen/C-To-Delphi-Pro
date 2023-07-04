@@ -1,7 +1,9 @@
-# C-To-Delphi
+# C-To-Delphi-Pro
 
 ## Description
-This tool will convert most of your standard C code. .
+After spending a month manually modifying the Pascal code translated by C-To-Delphi, I'm exhausted, and the progress I made feels close to zero. After searching again on the internet, I had to start over and rewrite C-To-Delphi. Initially, I thought C-To-Delphi had completed 90% of the work, and I would just need to fix a few bugs. However, once I started the task, I realized that C-To-Delphi had only done 10%, leaving the remaining 90% of the conversion details unhandled. It took me a whole six months to complete that 90%. Hence, the software is named C-To-Delphi Pro. I want to express my gratitude to the author of C-To-Delphi for providing the initial framework and idea. C-To-Delphi Pro is a niche software designed for those who need to accurately and efficiently translate C or C++ code into Delphi, saving time. Don't underestimate the complexity of the C++ language and avoid attempting manual translation.
+Account settings
+
 
 [Download](https://github.com/WouterVanNifterick/C-To-Delphi/releases "Download") executable here.
 
@@ -15,6 +17,7 @@ The editors are kept in sync, so you can easily find how a specific piece of cod
 * You can drag/drop multiple C files to the application. It'll find the .h files that belong to it, and convert all to .pas files in the same folder.
 
 ## Features:
+
 * If function main exists, a program will be generated. Otherwise a pascal unit with interface/implementation sections.
 * Converts routines and arguments
 * Converts for loops
@@ -25,4 +28,4 @@ The editors are kept in sync, so you can easily find how a specific piece of cod
 * Converts many other common routines to Delphi equivalents (strcpy,strcat,strlen,printf,argv,argc,etc)
 * Converts classes
 
-![Screenshot](https://raw.githubusercontent.com/WouterVanNifterick/C-To-Delphi/master/C-To-Delphi-0.9.0.png)
+![Screenshot](https://github.com/stategen/C-To-Delphi-Pro/blob/master/CToDelphiProSnap1.png)
