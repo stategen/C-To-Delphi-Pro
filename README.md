@@ -1,12 +1,12 @@
 # C-To-Delphi-Pro
 ![Screenshot](https://github.com/stategen/C-To-Delphi-Pro/blob/master/CToDelphiProSnap3.png)
 ## Description
-After spending a month manually modifying the Pascal code translated by C-To-Delphi, I'm exhausted, and the progress I made feels close to zero. After searching again on the internet, I had to start over and rewrite C-To-Delphi. Initially, I thought C-To-Delphi had completed 90% of the work, and I would just need to fix a few bugs. However, once I started the task, I realized that C-To-Delphi had only done 10%, leaving the remaining 90% of the conversion details unhandled. It took me a whole six months to complete that 90%. Hence, the software is named C-To-Delphi Pro. I want to express my gratitude to the author of C-To-Delphi for providing the initial framework and idea. C-To-Delphi Pro is a niche software designed for those who need to accurately and efficiently translate C or C++ code into Delphi, saving time. Don't underestimate the complexity of the C++ language and avoid attempting manual translation.
+After spending a month manually modifying the Pascal code translated by C-To-Delphi, I'm exhausted, and the progress I made feels close to zero. After searching again on the internet, I had to start over and rewrite C-To-Delphi. Initially, I thought C-To-Delphi had completed 90% of the work, and I would just need to fix a few bugs. However, once I started the task, I realized that C-To-Delphi had only done 10%, leaving the remaining 90% of the conversion details unhandled. It took me a whole six months to complete that 90%. Hence, the software is named C-To-Delphi Pro. I want to express my gratitude to the author of C-To-Delphi for providing the initial framework and idea. C-To-Delphi Pro is a niche software designed for those who need to accurately and efficiently translate C or C++ code into Delphi(pascal), saving time. Don't underestimate the complexity of the C++ language and avoid attempting manual translation.
 Account settings
 
 [Download](https://www.stategen.org/download/ "Download") executable here.
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/s/fc3fdce454) -->
-It contains a split view, with C on the left and Delphi on the right.
+It contains a split view, with C on the left and Delphi(pascal)on the right.
 The Delphi code gets updated in realtime when you edit the C code.
 The editors are kept in sync, so you can easily find how a specific piece of code was converted.
 
