@@ -73,7 +73,7 @@ The editors are kept in sync, so you can easily find how a specific piece of cod
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/5_auto_byte_p.png)
 
-##### 8.auto char with num
+##### 8.auto char with number
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/6_auto_char_to_ord_c.png)
 
