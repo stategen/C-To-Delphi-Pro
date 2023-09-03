@@ -5,15 +5,6 @@ After spending a month manually modifying the Pascal code translated by C-To-Del
 Account settings
 
 [Download](https://www.stategen.org/download/ "Download") executable here.
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/s/fc3fdce454) -->
-It contains a split view, with C on the left and Delphi(pascal)on the right.
-The Delphi code gets updated in realtime when you edit the C code.
-The editors are kept in sync, so you can easily find how a specific piece of code was converted.
-
-* The **Syntax checks** of the generated code is verified. (uses DelphiAST)
-* You can even **run** the generated code by pressing F9 (uses DWS)
-
-* You can drag/drop multiple C files to the application. It'll find the .h files that belong to it, and convert all to .pas files in the same folder.
 
 ## The following screenshots are all actual conversions:
 
@@ -388,6 +379,16 @@ The editors are kept in sync, so you can easily find how a specific piece of cod
 ## >
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/45_inner_class_const_init_p.png)
+
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/s/fc3fdce454) -->
+It contains a split view, with C on the left and Delphi(pascal)on the right.
+The Delphi/pascal code gets updated in realtime when you edit the C code.
+The editors are kept in sync, so you can easily find how a specific piece of code was converted.
+
+* The **Syntax checks** of the generated code is verified. (uses DelphiAST)
+* You can even **run** the generated code by pressing F9 (uses DWS)
+
+* You can drag/drop multiple C files to the application. It'll find the .h files that belong to it, and convert all to .pas files in the same folder.
 
 ## Features:
 
