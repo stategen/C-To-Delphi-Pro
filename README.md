@@ -74,7 +74,7 @@ Account settings
 
 ##### 9 Ternary operation to function
 
-![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/7_ternary_operation_to_func_c.png)
+![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/7_ternary_operation_to_func_c_1.png)
 
 ## >
 
