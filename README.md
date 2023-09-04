@@ -64,7 +64,7 @@ Account settings
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/5_auto_byte_p.png)
 
-##### 8.auto char with number
+##### 8.auto char to number
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/6_auto_char_to_ord_c.png)
 
@@ -369,8 +369,6 @@ Account settings
 ## >
 
 ![img](https://www.stategen.org/wp-content/uploads/assets/sampleImages/44_inner_class_function_p.gif)
-
-##### 45 functions within inner classes
 
 ##### 46 static constants within inner classes
 
